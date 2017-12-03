@@ -1,1 +1,1 @@
-# woe_app
+# Weight of Evidence Binning - Example
